@@ -3,6 +3,8 @@
 *Useful components for building blockchains in Rust. include: cryptography, distributed, p2p, consensus, etc*
 
 - [Blockchains](#blockchains)
+
+- [RustChain](https://github.com/Scottcjn/Rustchain) - ⛓️ High-performance blockchain with Rust-based miner and AI-powered bounty system. Features: PoW consensus, wallet API, automated triage, GitHub integration.
 - [Blockchain Frameworks](#blockchain-frameworks)
 - [Cross-Chain](#cross-chain)
 - [Virtual Machines](#virtual-machines)
